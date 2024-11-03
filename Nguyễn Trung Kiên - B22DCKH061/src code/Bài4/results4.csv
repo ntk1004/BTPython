@@ -1,0 +1,1972 @@
+[
+    {
+        "player_id": null,
+        "player_name": "Demi Akarakiri",
+        "country_name": "England",
+        "age": "15",
+        "position_name": null,
+        "club_from_name": "Arsenal FC",
+        "club_to_name": "Everton FC",
+        "amount": "Free"
+    },
+    {
+        "player_id": "608775",
+        "player_name": "Kain Ryan",
+        "country_name": "England",
+        "age": "19",
+        "position_name": "Defender (Left)",
+        "club_from_name": "Brighton & Hove Albion",
+        "club_to_name": "Coventry City",
+        "amount": "Free"
+    },
+    {
+        "player_id": null,
+        "player_name": "Nicksoen Gomis",
+        "country_name": "France",
+        "age": "21",
+        "position_name": null,
+        "club_from_name": "Sheff Utd",
+        "club_to_name": "Toronto FC",
+        "amount": "Free"
+    },
+    {
+        "player_id": "112851",
+        "player_name": "Richie Laryea",
+        "country_name": "Canada",
+        "age": "29",
+        "position_name": "Defender (Right), Midfielder (Center Left)",
+        "club_from_name": "Nottingham Forest",
+        "club_to_name": "Toronto FC",
+        "amount": "€0.7M"
+    },
+    {
+        "player_id": "168296",
+        "player_name": "Bruno Jordão",
+        "country_name": "Portugal",
+        "age": "25",
+        "position_name": "Defensive Midfielder, Midfielder (Center)",
+        "club_from_name": "Wolves",
+        "club_to_name": "Radomiak Radom",
+        "amount": "Free"
+    },
+    {
+        "player_id": "3068",
+        "player_name": "Serge Aurier",
+        "country_name": "Cote d'Ivoire",
+        "age": "31",
+        "position_name": "Defender (Right)",
+        "club_from_name": "Nottingham Forest",
+        "club_to_name": "Galatasaray",
+        "amount": "€0.1M"
+    },
+    {
+        "player_id": "478856",
+        "player_name": "Charlie Wiggett",
+        "country_name": "England",
+        "age": "21",
+        "position_name": "Defender (Center)",
+        "club_from_name": "Newcastle United",
+        "club_to_name": "Sligo Rovers",
+        "amount": "Free"
+    },
+    {
+        "player_id": "434087",
+        "player_name": "Theo Corbeanu",
+        "country_name": "Canada",
+        "age": "21",
+        "position_name": "Striker (Right), Midfielder (Right Left)",
+        "club_from_name": "Wolves",
+        "club_to_name": "Granada CF",
+        "amount": "€1.5M"
+    },
+    {
+        "player_id": "305488418",
+        "player_name": "Alfie Harrison",
+        "country_name": "England",
+        "age": "18",
+        "position_name": "Midfielder (Center)",
+        "club_from_name": "Manchester City",
+        "club_to_name": "Newcastle United",
+        "amount": "€1M"
+    },
+    {
+        "player_id": "12019",
+        "player_name": "Matz Sels",
+        "country_name": "Belgium",
+        "age": "31",
+        "position_name": "Goalkeeper",
+        "club_from_name": "RC Strasbourg Alsace",
+        "club_to_name": "Nottingham Forest",
+        "amount": "€8M"
+    },
+    {
+        "player_id": "3574",
+        "player_name": "John Fleck",
+        "country_name": "Scotland",
+        "age": "32",
+        "position_name": "Midfielder, Defensive Midfielder (Center)",
+        "club_from_name": "Sheff Utd",
+        "club_to_name": "Blackburn Rovers",
+        "amount": "Free"
+    },
+    {
+        "player_id": "607487",
+        "player_name": "Thierry Small",
+        "country_name": "England",
+        "age": "19",
+        "position_name": "Defender, Midfielder (Left)",
+        "club_from_name": "Southampton",
+        "club_to_name": "Charlton Athletic",
+        "amount": "Free"
+    },
+    {
+        "player_id": "582717",
+        "player_name": "Adam Wharton",
+        "country_name": "England",
+        "age": "19",
+        "position_name": "Midfielder, Defensive Midfielder (Center)",
+        "club_from_name": "Blackburn Rovers",
+        "club_to_name": "Crystal Palace",
+        "amount": "€21.1M"
+    },
+    {
+        "player_id": "407341",
+        "player_name": "Miguel Azeez",
+        "country_name": "England",
+        "age": "21",
+        "position_name": "Midfielder (Center)",
+        "club_from_name": "Arsenal FC",
+        "club_to_name": "Atlético Baleares",
+        "amount": "Free"
+    },
+    {
+        "player_id": "253477",
+        "player_name": "Morgan Rogers",
+        "country_name": "England",
+        "age": "22",
+        "position_name": "Attacking midfielder (Center), Midfielder (Center Left)",
+        "club_from_name": "Middlesbrough FC",
+        "club_to_name": "Aston Villa",
+        "amount": "€9.4M"
+    },
+    {
+        "player_id": "24492",
+        "player_name": "Bertrand Traoré",
+        "country_name": "Burkina Faso",
+        "age": "28",
+        "position_name": "Striker, Midfielder (Right)",
+        "club_from_name": "Aston Villa",
+        "club_to_name": "Villarreal CF",
+        "amount": "Free"
+    },
+    {
+        "player_id": "256755",
+        "player_name": "Joe Gauci",
+        "country_name": "Australia",
+        "age": "23",
+        "position_name": "Goalkeeper",
+        "club_from_name": "Adelaide United",
+        "club_to_name": "Aston Villa",
+        "amount": "€1.5M"
+    },
+    {
+        "player_id": "40338",
+        "player_name": "Rúnar Alex Rúnarsson",
+        "country_name": "Iceland",
+        "age": "28",
+        "position_name": "Goalkeeper",
+        "club_from_name": "Arsenal FC",
+        "club_to_name": "FC Copenhagen",
+        "amount": "Free"
+    },
+    {
+        "player_id": "602601",
+        "player_name": "Isak Hansen-Aarøen",
+        "country_name": "Norway",
+        "age": "19",
+        "position_name": "Midfielder (Center)",
+        "club_from_name": "Manchester United",
+        "club_to_name": "SV Werder Bremen",
+        "amount": "€0.3M"
+    },
+    {
+        "player_id": "1421",
+        "player_name": "Hugo Lloris",
+        "country_name": "France",
+        "age": "37",
+        "position_name": "Goalkeeper",
+        "club_from_name": "Tottenham",
+        "club_to_name": "Los Angeles FC",
+        "amount": "Free"
+    },
+    {
+        "player_id": "76519",
+        "player_name": "Zack Steffen",
+        "country_name": "United States",
+        "age": "28",
+        "position_name": "Goalkeeper",
+        "club_from_name": "Manchester City",
+        "club_to_name": "Colorado Rapids",
+        "amount": "Free"
+    },
+    {
+        "player_id": "322982",
+        "player_name": "Daiki Hashioka",
+        "country_name": "Japan",
+        "age": "24",
+        "position_name": "Defender, Midfielder (Right)",
+        "club_from_name": "Sint-Truidense VV",
+        "club_to_name": "Luton Town",
+        "amount": "€2M"
+    },
+    {
+        "player_id": "151278",
+        "player_name": "Daniel Muñoz",
+        "country_name": "Colombia",
+        "age": "27",
+        "position_name": "Defender, Midfielder (Right)",
+        "club_from_name": "KRC Genk",
+        "club_to_name": "Crystal Palace",
+        "amount": "€8M"
+    },
+    {
+        "player_id": "49841",
+        "player_name": "Jonny Otto",
+        "country_name": "Spain",
+        "age": "29",
+        "position_name": "Defender (Right Left)",
+        "club_from_name": "Wolves",
+        "club_to_name": "PAOK Thessaloniki",
+        "amount": "Free"
+    },
+    {
+        "player_id": "64383",
+        "player_name": "Ivo Grbic",
+        "country_name": "Croatia",
+        "age": "28",
+        "position_name": "Goalkeeper",
+        "club_from_name": "Atlético de Madrid",
+        "club_to_name": "Sheff Utd",
+        "amount": "€2.5M"
+    },
+    {
+        "player_id": "345801",
+        "player_name": "Hákon Rafn Valdimarsson",
+        "country_name": "Iceland",
+        "age": "22",
+        "position_name": "Goalkeeper",
+        "club_from_name": "IF Elfsborg",
+        "club_to_name": "Brentford FC",
+        "amount": "€3M"
+    },
+    {
+        "player_id": "300258612",
+        "player_name": "Claudio Echeverri",
+        "country_name": "Argentina",
+        "age": "18",
+        "position_name": "Attacking midfielder, Midfielder (Center)",
+        "club_from_name": "CA River Plate",
+        "club_to_name": "Manchester City",
+        "amount": "€18.5M"
+    },
+    {
+        "player_id": "272498",
+        "player_name": "Sam Curtis",
+        "country_name": "Ireland",
+        "age": "18",
+        "position_name": "Defender (Center Right), Midfielder (Right)",
+        "club_from_name": "St. Patrick's Athletic",
+        "club_to_name": "Sheff Utd",
+        "amount": "Free"
+    },
+    {
+        "player_id": "71101177",
+        "player_name": "Jez Davies",
+        "country_name": "England",
+        "age": "19",
+        "position_name": "Midfielder (Center)",
+        "club_from_name": "Burnley FC",
+        "club_to_name": "Salford City",
+        "amount": "Free"
+    },
+    {
+        "player_id": "391101",
+        "player_name": "Kosta Nedeljkovic",
+        "country_name": "Serbia",
+        "age": "18",
+        "position_name": "Defender (Right)",
+        "club_from_name": "Red Star Belgrade",
+        "club_to_name": "Aston Villa",
+        "amount": "€7.6M"
+    },
+    {
+        "player_id": "42554",
+        "player_name": "Javier Manquillo",
+        "country_name": "Spain",
+        "age": "29",
+        "position_name": "Defender (Right)",
+        "club_from_name": "Newcastle United",
+        "club_to_name": "Celta de Vigo",
+        "amount": "Free"
+    },
+    {
+        "player_id": "591435",
+        "player_name": "Valentín Barco",
+        "country_name": "Argentina",
+        "age": "19",
+        "position_name": "Defender, Midfielder, Attacking midfielder (Left)",
+        "club_from_name": "CA Boca Juniors",
+        "club_to_name": "Brighton & Hove Albion",
+        "amount": "€9.2M"
+    },
+    {
+        "player_id": "185340",
+        "player_name": "Slobodan Tedic",
+        "country_name": "Serbia",
+        "age": "23",
+        "position_name": "Striker (Center)",
+        "club_from_name": "Manchester City",
+        "club_to_name": "FK Čukarički",
+        "amount": "Free"
+    },
+    {
+        "player_id": "568020",
+        "player_name": "Mateo Mejía",
+        "country_name": "Colombia",
+        "age": "20",
+        "position_name": "Striker (Center), Attacking midfielder (Right)",
+        "club_from_name": "Manchester United",
+        "club_to_name": "Sevilla FC",
+        "amount": "Free"
+    },
+    {
+        "player_id": "84309",
+        "player_name": "Kyle Edwards",
+        "country_name": "England",
+        "age": "25",
+        "position_name": "Striker, Midfielder (Left)",
+        "club_from_name": "Ipswich Town",
+        "club_to_name": "Oxford United",
+        "amount": "Free"
+    },
+    {
+        "player_id": "447890",
+        "player_name": "Caolan McBride",
+        "country_name": "Northern Ireland",
+        "age": "20",
+        "position_name": "Midfielder (Center)",
+        "club_from_name": "Aston Villa",
+        "club_to_name": "Newington Football Club",
+        "amount": "Free"
+    },
+    {
+        "player_id": "273836",
+        "player_name": "Radu Drăgușin",
+        "country_name": "Romania",
+        "age": "21",
+        "position_name": "Defender (Center)",
+        "club_from_name": "Genoa CFC",
+        "club_to_name": "Tottenham",
+        "amount": "€25M"
+    },
+    {
+        "player_id": "303355932",
+        "player_name": "Yunus Emre Konak",
+        "country_name": "Turkey",
+        "age": "18",
+        "position_name": "Defensive Midfielder (Center)",
+        "club_from_name": "Sivasspor",
+        "club_to_name": "Brentford FC",
+        "amount": "€4.5M"
+    },
+    {
+        "player_id": "99256",
+        "player_name": "Gustavo Scarpa",
+        "country_name": "Brazil",
+        "age": "30",
+        "position_name": "Attacking midfielder (Center), Midfielder (Right)",
+        "club_from_name": "Nottingham Forest",
+        "club_to_name": "Clube Atlético Mineiro",
+        "amount": "€5M"
+    },
+    {
+        "player_id": "248000",
+        "player_name": "Nahuel Ferraresi",
+        "country_name": "Italy",
+        "age": "25",
+        "position_name": "Defender (Center)",
+        "club_from_name": "Manchester City",
+        "club_to_name": "São Paulo Futebol Clube",
+        "amount": "€4.3M"
+    },
+    {
+        "player_id": "207691",
+        "player_name": "Finn Azaz",
+        "country_name": "Ireland",
+        "age": "23",
+        "position_name": "Midfielder (Center Left)",
+        "club_from_name": "Aston Villa",
+        "club_to_name": "Middlesbrough FC",
+        "amount": "€2.9M"
+    },
+    {
+        "player_id": "462425",
+        "player_name": "Adrian Mazilu",
+        "country_name": "Romania",
+        "age": "18",
+        "position_name": "Striker (Center Right)",
+        "club_from_name": "FC Farul Constanta",
+        "club_to_name": "Brighton & Hove Albion",
+        "amount": "€3M"
+    },
+    {
+        "player_id": null,
+        "player_name": "Evan Easton",
+        "country_name": "Scotland",
+        "age": "18",
+        "position_name": null,
+        "club_from_name": "Celtic FC",
+        "club_to_name": "Sheff Utd",
+        "amount": "Free"
+    },
+    {
+        "player_id": "573576",
+        "player_name": "Marcelo Flores",
+        "country_name": "Mexico",
+        "age": "19",
+        "position_name": "Striker, Midfielder (Left)",
+        "club_from_name": "Arsenal FC",
+        "club_to_name": "Tigres UANL",
+        "amount": "€0.8M"
+    },
+    {
+        "player_id": "66572",
+        "player_name": "Nicolas Pépé",
+        "country_name": "Cote d'Ivoire",
+        "age": "28",
+        "position_name": "Striker, Attacking midfielder (Right)",
+        "club_from_name": "Arsenal FC",
+        "club_to_name": "Trabzonspor",
+        "amount": "Free"
+    },
+    {
+        "player_id": "83873",
+        "player_name": "Demarai Gray",
+        "country_name": "Jamaica",
+        "age": "27",
+        "position_name": "Midfielder (Left), Striker (Center Left)",
+        "club_from_name": "Everton FC",
+        "club_to_name": "Al-Ettifaq FC",
+        "amount": "€9.3M"
+    },
+    {
+        "player_id": "394691",
+        "player_name": "Christian Marques",
+        "country_name": "Portugal",
+        "age": "20",
+        "position_name": "Defender (Center Right Left)",
+        "club_from_name": "Wolves",
+        "club_to_name": "Yverdon Sport FC",
+        "amount": "Free"
+    },
+    {
+        "player_id": "359596",
+        "player_name": "Moussa Djenepo",
+        "country_name": "Mali",
+        "age": "25",
+        "position_name": "Striker, Midfielder (Left)",
+        "club_from_name": "Southampton",
+        "club_to_name": "Standard Liège",
+        "amount": "€3.5M"
+    },
+    {
+        "player_id": "118118",
+        "player_name": "Andi Zeqiri",
+        "country_name": "Switzerland",
+        "age": "24",
+        "position_name": "Striker (Center)",
+        "club_from_name": "Brighton & Hove Albion",
+        "club_to_name": "KRC Genk",
+        "amount": "€2.8M"
+    },
+    {
+        "player_id": "14137893",
+        "player_name": "Declan Frith",
+        "country_name": "England",
+        "age": "21",
+        "position_name": "Attacking midfielder (Right)",
+        "club_from_name": "Aston Villa",
+        "club_to_name": "Valencia CF",
+        "amount": "Free"
+    },
+    {
+        "player_id": "69827",
+        "player_name": "Eric Bailly",
+        "country_name": "Cote d'Ivoire",
+        "age": "29",
+        "position_name": "Defender (Center)",
+        "club_from_name": "Manchester United",
+        "club_to_name": "Besiktas JK",
+        "amount": "Free"
+    },
+    {
+        "player_id": "70412",
+        "player_name": "Davinson Sánchez",
+        "country_name": "Colombia",
+        "age": "27",
+        "position_name": "Defender (Center)",
+        "club_from_name": "Tottenham",
+        "club_to_name": "Galatasaray",
+        "amount": "€9.5M"
+    },
+    {
+        "player_id": "449913",
+        "player_name": "Dylan Scicluna",
+        "country_name": "Malta",
+        "age": "19",
+        "position_name": "Defender (Left), Midfielder (Center)",
+        "club_from_name": "Wolves",
+        "club_to_name": "Western Sydney Wanderers",
+        "amount": "Free"
+    },
+    {
+        "player_id": "342028",
+        "player_name": "Cole Palmer",
+        "country_name": "England",
+        "age": "21",
+        "position_name": "Midfielder (Center Right)",
+        "club_from_name": "Manchester City",
+        "club_to_name": "Chelsea",
+        "amount": "€47M"
+    },
+    {
+        "player_id": "477570",
+        "player_name": "Jaden Philogene",
+        "country_name": "England",
+        "age": "21",
+        "position_name": "Midfielder (Right Left)",
+        "club_from_name": "Aston Villa",
+        "club_to_name": "Hull City",
+        "amount": "€5.8M"
+    },
+    {
+        "player_id": "130164",
+        "player_name": "Ryan Gravenberch",
+        "country_name": "Netherlands",
+        "age": "21",
+        "position_name": "Midfielder, Defensive Midfielder (Center)",
+        "club_from_name": "FC Bayern Munich",
+        "club_to_name": "Liverpool FC",
+        "amount": "€40M"
+    },
+    {
+        "player_id": "6439",
+        "player_name": "Odysseas Vlachodimos",
+        "country_name": "Greece",
+        "age": "29",
+        "position_name": "Goalkeeper",
+        "club_from_name": "SL Benfica",
+        "club_to_name": "Nottingham Forest",
+        "amount": "€4.9M"
+    },
+    {
+        "player_id": "595463",
+        "player_name": "Jayden Wareham",
+        "country_name": "England",
+        "age": "20",
+        "position_name": "Striker (Center)",
+        "club_from_name": "Chelsea",
+        "club_to_name": "Reading FC",
+        "amount": "Free"
+    },
+    {
+        "player_id": "492731",
+        "player_name": "Andrew Omobamidele",
+        "country_name": "Ireland",
+        "age": "21",
+        "position_name": "Defender (Center)",
+        "club_from_name": "Norwich City",
+        "club_to_name": "Nottingham Forest",
+        "amount": "€12.9M"
+    },
+    {
+        "player_id": "134998",
+        "player_name": "Ibrahim Sangaré",
+        "country_name": "Cote d'Ivoire",
+        "age": "25",
+        "position_name": "Defensive Midfielder, Midfielder (Center)",
+        "club_from_name": "PSV Eindhoven",
+        "club_to_name": "Nottingham Forest",
+        "amount": "€35M"
+    },
+    {
+        "player_id": "643117",
+        "player_name": "Silko Thomas",
+        "country_name": "England",
+        "age": "19",
+        "position_name": "Midfielder (Left)",
+        "club_from_name": "Chelsea",
+        "club_to_name": "Leicester City",
+        "amount": "Free"
+    },
+    {
+        "player_id": "477526",
+        "player_name": "Charlie Wellens",
+        "country_name": "England",
+        "age": "20",
+        "position_name": "Defender (Right)",
+        "club_from_name": "Manchester United",
+        "club_to_name": "Reading FC",
+        "amount": "Free"
+    },
+    {
+        "player_id": "257495",
+        "player_name": "Nicolás Domínguez",
+        "country_name": "Argentina",
+        "age": "25",
+        "position_name": "Midfielder, Defensive Midfielder (Center)",
+        "club_from_name": "Bologna FC 1909",
+        "club_to_name": "Nottingham Forest",
+        "amount": "€10M"
+    },
+    {
+        "player_id": "127706",
+        "player_name": "Rob Holding",
+        "country_name": "England",
+        "age": "27",
+        "position_name": "Defender (Center)",
+        "club_from_name": "Arsenal FC",
+        "club_to_name": "Crystal Palace",
+        "amount": "€1.2M"
+    },
+    {
+        "player_id": "147576",
+        "player_name": "Brad Young",
+        "country_name": "England",
+        "age": "20",
+        "position_name": "Striker (Center Right Left)",
+        "club_from_name": "Aston Villa",
+        "club_to_name": "The New Saints",
+        "amount": "Free"
+    },
+    {
+        "player_id": "189113401",
+        "player_name": "Kalani Barton",
+        "country_name": "England",
+        "age": "18",
+        "position_name": "Defender (Right)",
+        "club_from_name": "Crystal Palace",
+        "club_to_name": null,
+        "amount": "Free"
+    },
+    {
+        "player_id": "480564",
+        "player_name": "Alex Gibson-Hammond",
+        "country_name": "England",
+        "age": "20",
+        "position_name": "Attacking midfielder, Striker, Defender (Right)",
+        "club_from_name": "Nottingham Forest",
+        "club_to_name": "Derby County",
+        "amount": "Free"
+    },
+    {
+        "player_id": "2876",
+        "player_name": "Vicente Guaita",
+        "country_name": "Spain",
+        "age": "36",
+        "position_name": "Goalkeeper",
+        "club_from_name": "Crystal Palace",
+        "club_to_name": "Celta de Vigo",
+        "amount": "Free"
+    },
+    {
+        "player_id": "151109",
+        "player_name": "Ross Stewart",
+        "country_name": "Scotland",
+        "age": "27",
+        "position_name": "Striker (Center)",
+        "club_from_name": "Sunderland AFC",
+        "club_to_name": "Southampton",
+        "amount": "€9.3M"
+    },
+    {
+        "player_id": "522910",
+        "player_name": "Mikki van Sas",
+        "country_name": "Netherlands",
+        "age": "19",
+        "position_name": "Goalkeeper",
+        "club_from_name": "Manchester City",
+        "club_to_name": "Feyenoord Rotterdam",
+        "amount": "Free"
+    },
+    {
+        "player_id": "169186",
+        "player_name": "Jean-Ricner Bellegarde",
+        "country_name": "France",
+        "age": "25",
+        "position_name": "Midfielder (Center)",
+        "club_from_name": "RC Strasbourg Alsace",
+        "club_to_name": "Wolves",
+        "amount": "€15M"
+    },
+    {
+        "player_id": "648643",
+        "player_name": "Malik Mothersille",
+        "country_name": "England",
+        "age": "19",
+        "position_name": "Striker (Center)",
+        "club_from_name": "Chelsea",
+        "club_to_name": "Peterborough United",
+        "amount": "Free"
+    },
+    {
+        "player_id": "472142",
+        "player_name": "Matheus Nunes",
+        "country_name": "Portugal",
+        "age": "25",
+        "position_name": "Midfielder (Center Left), Defensive Midfielder (Center)",
+        "club_from_name": "Wolves",
+        "club_to_name": "Manchester City",
+        "amount": "€62M"
+    },
+    {
+        "player_id": "393802",
+        "player_name": "Brennan Johnson",
+        "country_name": "Wales",
+        "age": "22",
+        "position_name": "Striker, Midfielder (Right)",
+        "club_from_name": "Nottingham Forest",
+        "club_to_name": "Tottenham",
+        "amount": "€55M"
+    },
+    {
+        "player_id": "77684",
+        "player_name": "Alex Iwobi",
+        "country_name": "Nigeria",
+        "age": "27",
+        "position_name": "Striker (Left), Midfielder (Center Left)",
+        "club_from_name": "Everton FC",
+        "club_to_name": "Fulham FC",
+        "amount": "€25.7M"
+    },
+    {
+        "player_id": "27809",
+        "player_name": "Jamal Baptiste",
+        "country_name": "Grenada",
+        "age": "28",
+        "position_name": "Defender (Center)",
+        "club_from_name": "West Ham United",
+        "club_to_name": "Manchester City",
+        "amount": "Free"
+    },
+    {
+        "player_id": "476297",
+        "player_name": "Tom Cannon",
+        "country_name": "Ireland",
+        "age": "20",
+        "position_name": "Striker (Center)",
+        "club_from_name": "Everton FC",
+        "club_to_name": "Leicester City",
+        "amount": "€8.8M"
+    },
+    {
+        "player_id": "179419",
+        "player_name": "Keinan Davis",
+        "country_name": "England",
+        "age": "25",
+        "position_name": "Striker (Center)",
+        "club_from_name": "Aston Villa",
+        "club_to_name": "Udinese Calcio",
+        "amount": "€2.3M"
+    },
+    {
+        "player_id": "128040",
+        "player_name": "Altay Bayindir",
+        "country_name": "Turkey",
+        "age": "25",
+        "position_name": "Goalkeeper",
+        "club_from_name": "Fenerbahce",
+        "club_to_name": "Manchester United",
+        "amount": "€5M"
+    },
+    {
+        "player_id": "210509",
+        "player_name": "Callum Hudson-Odoi",
+        "country_name": "England",
+        "age": "22",
+        "position_name": "Striker, Midfielder (Left)",
+        "club_from_name": "Chelsea",
+        "club_to_name": "Nottingham Forest",
+        "amount": "€3.5M"
+    },
+    {
+        "player_id": "564610",
+        "player_name": "Murillo",
+        "country_name": "Brazil",
+        "age": "21",
+        "position_name": "Defender (Center)",
+        "club_from_name": "Sport Club Corinthians Paulista",
+        "club_to_name": "Nottingham Forest",
+        "amount": "€12M"
+    },
+    {
+        "player_id": "6405",
+        "player_name": "Tiemoué Bakayoko",
+        "country_name": "France",
+        "age": "29",
+        "position_name": "Defensive Midfielder, Midfielder (Center)",
+        "club_from_name": "Chelsea",
+        "club_to_name": "FC Lorient",
+        "amount": "Free"
+    },
+    {
+        "player_id": "80019",
+        "player_name": "Dean Henderson",
+        "country_name": "England",
+        "age": "26",
+        "position_name": "Goalkeeper",
+        "club_from_name": "Manchester United",
+        "club_to_name": "Crystal Palace",
+        "amount": "€17.5M"
+    },
+    {
+        "player_id": "258642",
+        "player_name": "Han-Noah Massengo",
+        "country_name": "France",
+        "age": "22",
+        "position_name": "Defensive Midfielder, Midfielder (Center)",
+        "club_from_name": "Bristol City",
+        "club_to_name": "Burnley FC",
+        "amount": "Free"
+    },
+    {
+        "player_id": "127951",
+        "player_name": "Santiago Bueno",
+        "country_name": "Uruguay",
+        "age": "24",
+        "position_name": "Defender (Center)",
+        "club_from_name": "Girona FC",
+        "club_to_name": "Wolves",
+        "amount": "€12M"
+    },
+    {
+        "player_id": "207743",
+        "player_name": "Folarin Balogun",
+        "country_name": "England",
+        "age": "22",
+        "position_name": "Striker (Center)",
+        "club_from_name": "Arsenal FC",
+        "club_to_name": "AS Monaco",
+        "amount": "€30M"
+    },
+    {
+        "player_id": "476323",
+        "player_name": "Toby Bull",
+        "country_name": "Ireland",
+        "age": "20",
+        "position_name": "Midfielder (Center), Goalkeeper",
+        "club_from_name": "Brighton & Hove Albion",
+        "club_to_name": "Eastbourne Town Football Club",
+        "amount": "Free"
+    },
+    {
+        "player_id": "474280",
+        "player_name": "Beto",
+        "country_name": "Portugal",
+        "age": "25",
+        "position_name": "Striker (Center)",
+        "club_from_name": "Udinese Calcio",
+        "club_to_name": "Everton FC",
+        "amount": "€25M"
+    },
+    {
+        "player_id": "221635562",
+        "player_name": "Carlos Baleba",
+        "country_name": "Cameroon",
+        "age": "19",
+        "position_name": "Defensive Midfielder (Right Left), Attacking midfielder (Center)",
+        "club_from_name": "LOSC Lille",
+        "club_to_name": "Brighton & Hove Albion",
+        "amount": "€27M"
+    },
+    {
+        "player_id": "413143",
+        "player_name": "Roy Syla",
+        "country_name": "Albania",
+        "age": "23",
+        "position_name": "Midfielder (Center)",
+        "club_from_name": "Brentford FC",
+        "club_to_name": "Ayr United FC",
+        "amount": "Free"
+    },
+    {
+        "player_id": "456550",
+        "player_name": "Dan Langley",
+        "country_name": "England",
+        "age": "22",
+        "position_name": "Goalkeeper",
+        "club_from_name": "Newcastle United",
+        "club_to_name": "Blyth Spartans Association Football Club",
+        "amount": "Free"
+    },
+    {
+        "player_id": "395272",
+        "player_name": "Cameron Archer",
+        "country_name": "England",
+        "age": "21",
+        "position_name": "Striker (Center)",
+        "club_from_name": "Aston Villa",
+        "club_to_name": "Sheff Utd",
+        "amount": "€21.6M"
+    },
+    {
+        "player_id": "117338",
+        "player_name": "Nathan Tella",
+        "country_name": "Nigeria",
+        "age": "24",
+        "position_name": "Midfielder (Right), Attacking midfielder (Left)",
+        "club_from_name": "Southampton",
+        "club_to_name": "Bayer Leverkusen",
+        "amount": "€23.3M"
+    },
+    {
+        "player_id": "228416",
+        "player_name": "Djordje Petrovic",
+        "country_name": "Serbia",
+        "age": "23",
+        "position_name": "Goalkeeper",
+        "club_from_name": "New England Revolution",
+        "club_to_name": "Chelsea",
+        "amount": "€16M"
+    },
+    {
+        "player_id": "592765",
+        "player_name": "Avan Jones",
+        "country_name": "England",
+        "age": "21",
+        "position_name": "Defender, Midfielder (Right)",
+        "club_from_name": "Luton Town",
+        "club_to_name": "Chesham United Football Club",
+        "amount": "Free"
+    },
+    {
+        "player_id": "81634",
+        "player_name": "Mohamed Dräger",
+        "country_name": "Tunisia",
+        "age": "27",
+        "position_name": "Defender, Midfielder (Right)",
+        "club_from_name": "Nottingham Forest",
+        "club_to_name": "FC Basel 1893",
+        "amount": "€0.4M"
+    },
+    {
+        "player_id": "363",
+        "player_name": "João Moutinho",
+        "country_name": "Portugal",
+        "age": "36",
+        "position_name": "Midfielder, Defensive Midfielder (Center)",
+        "club_from_name": "Wolves",
+        "club_to_name": "SC Braga",
+        "amount": "Free"
+    },
+    {
+        "player_id": null,
+        "player_name": "Kane Draper",
+        "country_name": "Wales",
+        "age": "18",
+        "position_name": null,
+        "club_from_name": "Nottingham Forest",
+        "club_to_name": "Pontypridd United",
+        "amount": "Free"
+    },
+    {
+        "player_id": "514843",
+        "player_name": "David Omilabu",
+        "country_name": "England",
+        "age": "20",
+        "position_name": "Striker (Right)",
+        "club_from_name": "Crystal Palace",
+        "club_to_name": "Maidenhead United",
+        "amount": "Free"
+    },
+    {
+        "player_id": "433808",
+        "player_name": "Matt Everitt",
+        "country_name": "Ireland",
+        "age": "20",
+        "position_name": "Midfielder (Right Left), Attacking midfielder (Left)",
+        "club_from_name": "Brighton & Hove Albion",
+        "club_to_name": "Dorking Wanderers",
+        "amount": "Free"
+    },
+    {
+        "player_id": "568884",
+        "player_name": "Roshaun Mathurin",
+        "country_name": "England",
+        "age": "19",
+        "position_name": "Striker (Center Right)",
+        "club_from_name": "Tottenham",
+        "club_to_name": "Crystal Palace",
+        "amount": "Free"
+    },
+    {
+        "player_id": "6516",
+        "player_name": "Aymeric Laporte",
+        "country_name": "Spain",
+        "age": "29",
+        "position_name": "Defender (Center)",
+        "club_from_name": "Manchester City",
+        "club_to_name": "Al-Nassr FC",
+        "amount": "€27.5M"
+    },
+    {
+        "player_id": "589751",
+        "player_name": "Ruben Shakpoke",
+        "country_name": "England",
+        "age": "19",
+        "position_name": "Striker (Center)",
+        "club_from_name": "Aston Villa",
+        "club_to_name": "West Bromwich Albion",
+        "amount": "Free"
+    },
+    {
+        "player_id": "289362",
+        "player_name": "Jérémy Doku",
+        "country_name": "Belgium",
+        "age": "21",
+        "position_name": "Striker, Midfielder (Left)",
+        "club_from_name": "Stade Rennais FC",
+        "club_to_name": "Manchester City",
+        "amount": "€60M"
+    },
+    {
+        "player_id": "417594",
+        "player_name": "Noam Emeran",
+        "country_name": "France",
+        "age": "20",
+        "position_name": "Striker (Left)",
+        "club_from_name": "Manchester United",
+        "club_to_name": "FC Groningen",
+        "amount": "Free"
+    },
+    {
+        "player_id": "268320",
+        "player_name": "Sandro Tonali",
+        "country_name": "Italy",
+        "age": "23",
+        "position_name": "Midfielder, Defensive Midfielder (Center)",
+        "club_from_name": "AC Milan",
+        "club_to_name": "Newcastle United",
+        "amount": "€64M"
+    },
+    {
+        "player_id": "360178",
+        "player_name": "Rico Richards",
+        "country_name": "England",
+        "age": "19",
+        "position_name": "Midfielder (Left), Attacking midfielder (Center)",
+        "club_from_name": "West Bromwich Albion",
+        "club_to_name": "Aston Villa",
+        "amount": "Free"
+    },
+    {
+        "player_id": "548991",
+        "player_name": "Bart Verbruggen",
+        "country_name": "Netherlands",
+        "age": "20",
+        "position_name": "Goalkeeper",
+        "club_from_name": "RSC Anderlecht",
+        "club_to_name": "Brighton & Hove Albion",
+        "amount": "€20M"
+    },
+    {
+        "player_id": "208075",
+        "player_name": "Lewis Gibson",
+        "country_name": "England",
+        "age": "22",
+        "position_name": "Defender (Center Left)",
+        "club_from_name": "Everton FC",
+        "club_to_name": "Plymouth Argyle",
+        "amount": "Free"
+    },
+    {
+        "player_id": "127147",
+        "player_name": "Dominik Szoboszlai",
+        "country_name": "Hungary",
+        "age": "22",
+        "position_name": "Midfielder (Center), Attacking midfielder (Center Left)",
+        "club_from_name": "RB Leipzig",
+        "club_to_name": "Liverpool FC",
+        "amount": "€70M"
+    },
+    {
+        "player_id": "305449508",
+        "player_name": "Theo Williams",
+        "country_name": "England",
+        "age": "19",
+        "position_name": null,
+        "club_from_name": "Sheff Utd",
+        "club_to_name": "Fleetwood Town",
+        "amount": "Free"
+    },
+    {
+        "player_id": "507722",
+        "player_name": "Joseph Peter McFlynn",
+        "country_name": "England",
+        "age": "20",
+        "position_name": "Striker (Right Left)",
+        "club_from_name": "Burnley FC",
+        "club_to_name": "Hamilton Academical FC",
+        "amount": "Free"
+    },
+    {
+        "player_id": "662788",
+        "player_name": "Charlie Hayes-Green",
+        "country_name": "England",
+        "age": "18",
+        "position_name": "Midfielder, Defender (Center)",
+        "club_from_name": "Liverpool FC",
+        "club_to_name": "Bolton Wanderers",
+        "amount": "Free"
+    },
+    {
+        "player_id": "1385",
+        "player_name": "James Milner",
+        "country_name": "England",
+        "age": "37",
+        "position_name": "Midfielder (Center), Defender (Right)",
+        "club_from_name": "Liverpool FC",
+        "club_to_name": "Brighton & Hove Albion",
+        "amount": "Free"
+    },
+    {
+        "player_id": "118905",
+        "player_name": "Dan Nlundulu",
+        "country_name": "England",
+        "age": "24",
+        "position_name": "Striker (Center)",
+        "club_from_name": "Southampton",
+        "club_to_name": "Bolton Wanderers",
+        "amount": "Free"
+    },
+    {
+        "player_id": "103879",
+        "player_name": "Mahmoud Dahoud",
+        "country_name": "Germany",
+        "age": "27",
+        "position_name": "Midfielder, Defensive Midfielder (Center)",
+        "club_from_name": "Borussia Dortmund",
+        "club_to_name": "Brighton & Hove Albion",
+        "amount": "Free"
+    },
+    {
+        "player_id": "207831",
+        "player_name": "Michael Obafemi",
+        "country_name": "Ireland",
+        "age": "22",
+        "position_name": "Striker (Center)",
+        "club_from_name": "Swansea City",
+        "club_to_name": "Burnley FC",
+        "amount": "€4M"
+    },
+    {
+        "player_id": "588736",
+        "player_name": "Zidane Iqbal",
+        "country_name": "Iraq",
+        "age": "20",
+        "position_name": "Midfielder, Defensive Midfielder (Center)",
+        "club_from_name": "Manchester United",
+        "club_to_name": "FC Utrecht",
+        "amount": "€1M"
+    },
+    {
+        "player_id": "49638",
+        "player_name": "Rúben Neves",
+        "country_name": "Portugal",
+        "age": "26",
+        "position_name": "Defensive Midfielder, Midfielder (Center)",
+        "club_from_name": "Wolves",
+        "club_to_name": "Al-Hilal SFC",
+        "amount": "€55M"
+    },
+    {
+        "player_id": "74351",
+        "player_name": "Youri Tielemans",
+        "country_name": "Belgium",
+        "age": "26",
+        "position_name": "Midfielder, Defensive Midfielder (Center)",
+        "club_from_name": "Leicester City",
+        "club_to_name": "Aston Villa",
+        "amount": "Free"
+    },
+    {
+        "player_id": "8106",
+        "player_name": "Conor Coady",
+        "country_name": "England",
+        "age": "30",
+        "position_name": "Defender (Center)",
+        "club_from_name": "Wolves",
+        "club_to_name": "Leicester City",
+        "amount": "€8.7M"
+    },
+    {
+        "player_id": "450983",
+        "player_name": "Lukas Jensen",
+        "country_name": "Denmark",
+        "age": "24",
+        "position_name": "Goalkeeper",
+        "club_from_name": "Burnley FC",
+        "club_to_name": "Lincoln City",
+        "amount": "Free"
+    },
+    {
+        "player_id": "223209254",
+        "player_name": "Yankuba Minteh",
+        "country_name": "Gambia",
+        "age": "18",
+        "position_name": "Striker, Midfielder (Right)",
+        "club_from_name": "Odense Boldklub",
+        "club_to_name": "Newcastle United",
+        "amount": "€8M"
+    },
+    {
+        "player_id": null,
+        "player_name": "Harry Isted",
+        "country_name": "England",
+        "age": "26",
+        "position_name": null,
+        "club_from_name": "Luton Town",
+        "club_to_name": "Charlton Athletic",
+        "amount": "Free"
+    },
+    {
+        "player_id": "149839",
+        "player_name": "Chiedozie Ogbene",
+        "country_name": "Ireland",
+        "age": "26",
+        "position_name": "Striker, Midfielder (Right), Attacking midfielder (Center)",
+        "club_from_name": "Rotherham United",
+        "club_to_name": "Luton Town",
+        "amount": "Free"
+    },
+    {
+        "player_id": "221339108",
+        "player_name": "Harry Wright",
+        "country_name": "England",
+        "age": "18",
+        "position_name": "Defender, Midfielder (Center)",
+        "club_from_name": "Everton FC",
+        "club_to_name": "Fleetwood Town",
+        "amount": "Free"
+    },
+    {
+        "player_id": "119187",
+        "player_name": "Nathan Baxter",
+        "country_name": "England",
+        "age": "24",
+        "position_name": "Goalkeeper",
+        "club_from_name": "Chelsea",
+        "club_to_name": "Bolton Wanderers",
+        "amount": "Free"
+    },
+    {
+        "player_id": "433806",
+        "player_name": "Ethan Wady",
+        "country_name": "United States",
+        "age": "21",
+        "position_name": "Goalkeeper",
+        "club_from_name": "Chelsea",
+        "club_to_name": "Millwall FC",
+        "amount": "Free"
+    },
+    {
+        "player_id": "77031",
+        "player_name": "Will Norris",
+        "country_name": "England",
+        "age": "29",
+        "position_name": "Goalkeeper",
+        "club_from_name": "Burnley FC",
+        "club_to_name": "Portsmouth FC",
+        "amount": "Free"
+    },
+    {
+        "player_id": "546367",
+        "player_name": "Finlay Armstrong",
+        "country_name": "England",
+        "age": "20",
+        "position_name": "Defender (Left)",
+        "club_from_name": "Burnley FC",
+        "club_to_name": "Fleetwood Town",
+        "amount": "Free"
+    },
+    {
+        "player_id": "164337",
+        "player_name": "Dara O'Shea",
+        "country_name": "Ireland",
+        "age": "24",
+        "position_name": "Defender (Center)",
+        "club_from_name": "West Bromwich Albion",
+        "club_to_name": "Burnley FC",
+        "amount": "€7.8M"
+    },
+    {
+        "player_id": "7407",
+        "player_name": "Jack Butland",
+        "country_name": "England",
+        "age": "30",
+        "position_name": "Goalkeeper",
+        "club_from_name": "Crystal Palace",
+        "club_to_name": "Rangers FC",
+        "amount": "Free"
+    },
+    {
+        "player_id": "639707",
+        "player_name": "Lewis Salmon",
+        "country_name": "England",
+        "age": "21",
+        "position_name": "Striker (Right Left), Attacking midfielder (Left)",
+        "club_from_name": "Nottingham Forest",
+        "club_to_name": "Alfreton Town Football Club",
+        "amount": "Free"
+    },
+    {
+        "player_id": "12800",
+        "player_name": "Mislav Orsic",
+        "country_name": "Croatia",
+        "age": "30",
+        "position_name": "Striker, Midfielder (Left)",
+        "club_from_name": "Southampton",
+        "club_to_name": "Trabzonspor",
+        "amount": "€2.4M"
+    },
+    {
+        "player_id": "59349",
+        "player_name": "N'Golo Kanté",
+        "country_name": "France",
+        "age": "32",
+        "position_name": "Defensive Midfielder, Midfielder (Center)",
+        "club_from_name": "Chelsea",
+        "club_to_name": "Ittihad Club",
+        "amount": "Free"
+    },
+    {
+        "player_id": "188548",
+        "player_name": "Nahuel Bustos",
+        "country_name": "Argentina",
+        "age": "24",
+        "position_name": "Striker, Midfielder (Center)",
+        "club_from_name": "Manchester City",
+        "club_to_name": "Club Atlético Talleres",
+        "amount": "Free"
+    },
+    {
+        "player_id": "131480",
+        "player_name": "Moise Kean",
+        "country_name": "Italy",
+        "age": "23",
+        "position_name": "Striker (Center)",
+        "club_from_name": "Everton FC",
+        "club_to_name": "Juventus FC",
+        "amount": "€30M"
+    },
+    {
+        "player_id": "32623",
+        "player_name": "Pablo Marí",
+        "country_name": "Spain",
+        "age": "29",
+        "position_name": "Defender (Center)",
+        "club_from_name": "Arsenal FC",
+        "club_to_name": "AC Monza",
+        "amount": "€6.2M"
+    },
+    {
+        "player_id": "289358",
+        "player_name": "Antef Tsoungui",
+        "country_name": "Belgium",
+        "age": "20",
+        "position_name": "Defender (Center)",
+        "club_from_name": "Brighton & Hove Albion",
+        "club_to_name": "Feyenoord Rotterdam",
+        "amount": "Free"
+    },
+    {
+        "player_id": "289917293",
+        "player_name": "Teodor Minchev",
+        "country_name": "Bulgaria",
+        "age": "16",
+        "position_name": "Defender (Center)",
+        "club_from_name": "Arsenal FC",
+        "club_to_name": "Swansea City",
+        "amount": "Free"
+    },
+    {
+        "player_id": "330202",
+        "player_name": "Nicky Hogarth",
+        "country_name": "Scotland",
+        "age": "21",
+        "position_name": "Goalkeeper",
+        "club_from_name": "Nottingham Forest",
+        "club_to_name": "Falkirk FC",
+        "amount": "Free"
+    },
+    {
+        "player_id": "2787",
+        "player_name": "İlkay Gündoğan",
+        "country_name": "Germany",
+        "age": "32",
+        "position_name": "Midfielder (Center)",
+        "club_from_name": "Manchester City",
+        "club_to_name": "FC Barcelona",
+        "amount": "Free"
+    },
+    {
+        "player_id": "675269",
+        "player_name": "Isaac Westendorf",
+        "country_name": "England",
+        "age": "22",
+        "position_name": "Striker (Center)",
+        "club_from_name": "Newcastle United",
+        "club_to_name": "Larne FC",
+        "amount": "Free"
+    },
+    {
+        "player_id": "246784",
+        "player_name": "Roco Rees",
+        "country_name": "England",
+        "age": "21",
+        "position_name": "Goalkeeper",
+        "club_from_name": "Brentford FC",
+        "club_to_name": "Worthing Football Club",
+        "amount": "Free"
+    },
+    {
+        "player_id": "40384",
+        "player_name": "Edouard Mendy",
+        "country_name": "Senegal",
+        "age": "31",
+        "position_name": "Goalkeeper",
+        "club_from_name": "Chelsea",
+        "club_to_name": "Al-Ahli SFC",
+        "amount": "€18.5M"
+    },
+    {
+        "player_id": "119191",
+        "player_name": "Dujon Sterling",
+        "country_name": "England",
+        "age": "23",
+        "position_name": "Defender (Right Left)",
+        "club_from_name": "Chelsea",
+        "club_to_name": "Rangers FC",
+        "amount": "Free"
+    },
+    {
+        "player_id": "515577",
+        "player_name": "João Pedro",
+        "country_name": "Brazil",
+        "age": "21",
+        "position_name": "Striker, Midfielder, Attacking midfielder (Center)",
+        "club_from_name": "Watford FC",
+        "club_to_name": "Brighton & Hove Albion",
+        "amount": "€34.2M"
+    },
+    {
+        "player_id": "222255",
+        "player_name": "Dejan Kulusevski",
+        "country_name": "Sweden",
+        "age": "23",
+        "position_name": "Attacking midfielder (Center), Midfielder (Center Right)",
+        "club_from_name": "Juventus FC",
+        "club_to_name": "Tottenham",
+        "amount": "€30M"
+    },
+    {
+        "player_id": "361570",
+        "player_name": "Teddy Jenks",
+        "country_name": "England",
+        "age": "21",
+        "position_name": "Midfielder (Center)",
+        "club_from_name": "Brighton & Hove Albion",
+        "club_to_name": "Forest Green Rovers",
+        "amount": "Free"
+    },
+    {
+        "player_id": "207709",
+        "player_name": "Rekeem Harper",
+        "country_name": "England",
+        "age": "23",
+        "position_name": "Midfielder, Defensive Midfielder (Center)",
+        "club_from_name": "Ipswich Town",
+        "club_to_name": "Burton Albion",
+        "amount": "Free"
+    },
+    {
+        "player_id": "361569",
+        "player_name": "Jack Spong",
+        "country_name": "England",
+        "age": "21",
+        "position_name": "Defensive Midfielder (Center Right Left)",
+        "club_from_name": "Brighton & Hove Albion",
+        "club_to_name": "Queen's Park FC",
+        "amount": "Free"
+    },
+    {
+        "player_id": "524338",
+        "player_name": "Boubacar Traoré",
+        "country_name": "Mali",
+        "age": "21",
+        "position_name": "Defensive Midfielder, Striker (Center)",
+        "club_from_name": "FC Metz",
+        "club_to_name": "Wolves",
+        "amount": "€11M"
+    },
+    {
+        "player_id": "207756",
+        "player_name": "Matt Smith",
+        "country_name": "England",
+        "age": "22",
+        "position_name": "Midfielder, Defensive Midfielder (Center)",
+        "club_from_name": "Arsenal FC",
+        "club_to_name": "Wigan Athletic",
+        "amount": "Free"
+    },
+    {
+        "player_id": "363379",
+        "player_name": "Haydon Roberts",
+        "country_name": "England",
+        "age": "21",
+        "position_name": "Defender (Left)",
+        "club_from_name": "Brighton & Hove Albion",
+        "club_to_name": "Bristol City",
+        "amount": "Free"
+    },
+    {
+        "player_id": "116009",
+        "player_name": "Kai Havertz",
+        "country_name": "Germany",
+        "age": "24",
+        "position_name": "Striker, Midfielder (Center)",
+        "club_from_name": "Chelsea",
+        "club_to_name": "Arsenal FC",
+        "amount": "€75M"
+    },
+    {
+        "player_id": "234739",
+        "player_name": "Alexis Mac Allister",
+        "country_name": "Argentina",
+        "age": "24",
+        "position_name": "Midfielder, Defensive Midfielder, Attacking midfielder (Center)",
+        "club_from_name": "Brighton & Hove Albion",
+        "club_to_name": "Liverpool FC",
+        "amount": "€42M"
+    },
+    {
+        "player_id": "504726",
+        "player_name": "Jack Turner",
+        "country_name": "England",
+        "age": "20",
+        "position_name": "Midfielder (Center)",
+        "club_from_name": "Southampton",
+        "club_to_name": "Queen's Park FC",
+        "amount": "Free"
+    },
+    {
+        "player_id": "223427",
+        "player_name": "Ethan Galbraith",
+        "country_name": "Northern Ireland",
+        "age": "22",
+        "position_name": "Midfielder, Attacking midfielder (Center), Defender (Right)",
+        "club_from_name": "Manchester United",
+        "club_to_name": "Leyton Orient",
+        "amount": "Free"
+    },
+    {
+        "player_id": "557941",
+        "player_name": "Isaac Price",
+        "country_name": "Northern Ireland",
+        "age": "19",
+        "position_name": "Midfielder (Center Right)",
+        "club_from_name": "Everton FC",
+        "club_to_name": "Standard Liège",
+        "amount": "Free"
+    },
+    {
+        "player_id": "32817765",
+        "player_name": "Manni Norkett",
+        "country_name": "England",
+        "age": "18",
+        "position_name": "Striker (Center), Midfielder (Right)",
+        "club_from_name": "Manchester United",
+        "club_to_name": "Nottingham Forest",
+        "amount": "Free"
+    },
+    {
+        "player_id": "80389",
+        "player_name": "Joel Coleman",
+        "country_name": "England",
+        "age": "27",
+        "position_name": "Goalkeeper",
+        "club_from_name": "Ipswich Town",
+        "club_to_name": "Bolton Wanderers",
+        "amount": "Free"
+    },
+    {
+        "player_id": "67456",
+        "player_name": "Mark Flekken",
+        "country_name": "Netherlands",
+        "age": "30",
+        "position_name": "Goalkeeper",
+        "club_from_name": "SC Freiburg",
+        "club_to_name": "Brentford FC",
+        "amount": "€13M"
+    },
+    {
+        "player_id": "64798",
+        "player_name": "Ruben Loftus-Cheek",
+        "country_name": "England",
+        "age": "27",
+        "position_name": "Midfielder, Defensive Midfielder, Attacking midfielder (Center)",
+        "club_from_name": "Chelsea",
+        "club_to_name": "AC Milan",
+        "amount": "€18.5M"
+    },
+    {
+        "player_id": "514785",
+        "player_name": "Terrell Agyemang",
+        "country_name": "England",
+        "age": "20",
+        "position_name": "Midfielder (Center Left)",
+        "club_from_name": "Manchester City",
+        "club_to_name": "Middlesbrough FC",
+        "amount": "Free"
+    },
+    {
+        "player_id": null,
+        "player_name": "Lachlan Brook",
+        "country_name": "Australia",
+        "age": "22",
+        "position_name": null,
+        "club_from_name": "Brentford FC",
+        "club_to_name": "Western Sydney Wanderers",
+        "amount": "Free"
+    },
+    {
+        "player_id": "267274",
+        "player_name": "Pedro Porro",
+        "country_name": "Spain",
+        "age": "23",
+        "position_name": "Defender (Right)",
+        "club_from_name": "Sporting CP",
+        "club_to_name": "Tottenham",
+        "amount": "€40M"
+    },
+    {
+        "player_id": "392353",
+        "player_name": "Josh Neufville",
+        "country_name": "United States",
+        "age": "23",
+        "position_name": "Goalkeeper",
+        "club_from_name": "Luton Town",
+        "club_to_name": "AFC Wimbledon",
+        "amount": "Free"
+    },
+    {
+        "player_id": "154374928",
+        "player_name": "Tom Bloxham",
+        "country_name": "Ireland",
+        "age": "18",
+        "position_name": "Striker (Left)",
+        "club_from_name": "Tottenham",
+        "club_to_name": "Blackburn Rovers",
+        "amount": "Free"
+    },
+    {
+        "player_id": "222787827",
+        "player_name": "Josh Lane",
+        "country_name": "England",
+        "age": "19",
+        "position_name": "Goalkeeper",
+        "club_from_name": "Aston Villa",
+        "club_to_name": "Robert Morris Colonials (Robert Morris University)",
+        "amount": "Free"
+    },
+    {
+        "player_id": "69544",
+        "player_name": "Jefferson Lerma",
+        "country_name": "Colombia",
+        "age": "28",
+        "position_name": "Defensive Midfielder, Midfielder (Center)",
+        "club_from_name": "Bournemouth",
+        "club_to_name": "Crystal Palace",
+        "amount": "Free"
+    },
+    {
+        "player_id": "504723",
+        "player_name": "Will Tizzard",
+        "country_name": "England",
+        "age": "20",
+        "position_name": "Defender (Center)",
+        "club_from_name": "Southampton",
+        "club_to_name": "Queen's Park FC",
+        "amount": "Free"
+    },
+    {
+        "player_id": "40988476",
+        "player_name": "Harry Barclay",
+        "country_name": "England",
+        "age": "19",
+        "position_name": "Defender (Center Right)",
+        "club_from_name": "Newcastle United",
+        "club_to_name": "Blyth AFC",
+        "amount": "Free"
+    },
+    {
+        "player_id": "222585707",
+        "player_name": "Alex Matos",
+        "country_name": "England",
+        "age": "18",
+        "position_name": "Midfielder (Center)",
+        "club_from_name": "Norwich City",
+        "club_to_name": "Chelsea",
+        "amount": "Free"
+    },
+    {
+        "player_id": null,
+        "player_name": "Osa Solomon",
+        "country_name": "Ireland",
+        "age": "19",
+        "position_name": null,
+        "club_from_name": "Nottingham Forest",
+        "club_to_name": "Grantham Town Football Club",
+        "amount": "Free"
+    },
+    {
+        "player_id": "85179",
+        "player_name": "Naby Keïta",
+        "country_name": "Guinea",
+        "age": "28",
+        "position_name": "Midfielder (Center)",
+        "club_from_name": "Liverpool FC",
+        "club_to_name": "SV Werder Bremen",
+        "amount": "Free"
+    },
+    {
+        "player_id": "225970",
+        "player_name": "Michael Agboola",
+        "country_name": "England",
+        "age": "21",
+        "position_name": "Defender (Right)",
+        "club_from_name": "Wolves",
+        "club_to_name": null,
+        "amount": "Free"
+    },
+    {
+        "player_id": "83540",
+        "player_name": "James Maddison",
+        "country_name": "England",
+        "age": "26",
+        "position_name": "Attacking midfielder, Midfielder (Center)",
+        "club_from_name": "Leicester City",
+        "club_to_name": "Tottenham",
+        "amount": "€46.3M"
+    },
+    {
+        "player_id": "588281",
+        "player_name": "Nicolas Jackson",
+        "country_name": "Senegal",
+        "age": "22",
+        "position_name": "Striker (Center)",
+        "club_from_name": "Villarreal CF",
+        "club_to_name": "Chelsea",
+        "amount": "€37M"
+    },
+    {
+        "player_id": "642813",
+        "player_name": "Will Brook",
+        "country_name": "England",
+        "age": "19",
+        "position_name": "Goalkeeper",
+        "club_from_name": "Leeds United",
+        "club_to_name": "Nottingham Forest",
+        "amount": "Free"
+    },
+    {
+        "player_id": "200268",
+        "player_name": "Matheus Cunha",
+        "country_name": "Brazil",
+        "age": "24",
+        "position_name": "Striker, Attacking midfielder (Center)",
+        "club_from_name": "Atlético de Madrid",
+        "club_to_name": "Wolves",
+        "amount": "€50M"
+    },
+    {
+        "player_id": "574850",
+        "player_name": "Josh Williams",
+        "country_name": "Wales",
+        "age": "23",
+        "position_name": "Midfielder (Left), Defender (Center Left)",
+        "club_from_name": "Luton Town",
+        "club_to_name": "Hemel Hempstead Town Football Club",
+        "amount": "Free"
+    },
+    {
+        "player_id": "209922",
+        "player_name": "Jordan Beyer",
+        "country_name": "Germany",
+        "age": "23",
+        "position_name": "Defender (Center)",
+        "club_from_name": "Gladbach",
+        "club_to_name": "Burnley FC",
+        "amount": "€15M"
+    },
+    {
+        "player_id": "8252",
+        "player_name": "Ashley Barnes",
+        "country_name": "England",
+        "age": "33",
+        "position_name": "Striker, Midfielder (Center)",
+        "club_from_name": "Burnley FC",
+        "club_to_name": "Norwich City",
+        "amount": "Free"
+    },
+    {
+        "player_id": "1546",
+        "player_name": "Chris Wood",
+        "country_name": "New Zealand",
+        "age": "31",
+        "position_name": "Striker (Center Right Left)",
+        "club_from_name": "Newcastle United",
+        "club_to_name": "Nottingham Forest",
+        "amount": "€17M"
+    },
+    {
+        "player_id": "423013",
+        "player_name": "Niels Nkounkou",
+        "country_name": "France",
+        "age": "22",
+        "position_name": "Defender, Midfielder (Left)",
+        "club_from_name": "Everton FC",
+        "club_to_name": "AS Saint-Étienne",
+        "amount": "€2M"
+    },
+    {
+        "player_id": "480569",
+        "player_name": "Romaine Mundle",
+        "country_name": "England",
+        "age": "20",
+        "position_name": "Striker (Left)",
+        "club_from_name": "Tottenham",
+        "club_to_name": "Standard Liège",
+        "amount": "Free"
+    },
+    {
+        "player_id": "297290",
+        "player_name": "Lewis Thomas",
+        "country_name": "England",
+        "age": "21",
+        "position_name": "Goalkeeper",
+        "club_from_name": "Burnley FC",
+        "club_to_name": "Harrogate Town",
+        "amount": "Free"
+    },
+    {
+        "player_id": "362044",
+        "player_name": "Kevin Schade",
+        "country_name": "Germany",
+        "age": "21",
+        "position_name": "Attacking midfielder (Left), Striker (Center Left)",
+        "club_from_name": "SC Freiburg",
+        "club_to_name": "Brentford FC",
+        "amount": "€25M"
+    },
+    {
+        "player_id": "237026",
+        "player_name": "Ethan Laird",
+        "country_name": "England",
+        "age": "21",
+        "position_name": "Defender (Right)",
+        "club_from_name": "Manchester United",
+        "club_to_name": "Birmingham City",
+        "amount": "€0.9M"
+    },
+    {
+        "player_id": "3750",
+        "player_name": "Mateo Kovacic",
+        "country_name": "Croatia",
+        "age": "29",
+        "position_name": "Midfielder, Defensive Midfielder (Center)",
+        "club_from_name": "Chelsea",
+        "club_to_name": "Manchester City",
+        "amount": "€29.1M"
+    },
+    {
+        "player_id": "93669",
+        "player_name": "Guglielmo Vicario",
+        "country_name": "Italy",
+        "age": "26",
+        "position_name": "Goalkeeper",
+        "club_from_name": "FC Empoli",
+        "club_to_name": "Tottenham",
+        "amount": "€18.5M"
+    },
+    {
+        "player_id": "475978",
+        "player_name": "Jack Scott",
+        "country_name": "Northern Ireland",
+        "age": "20",
+        "position_name": "Defensive Midfielder (Right), Midfielder (Center)",
+        "club_from_name": "Wolves",
+        "club_to_name": "Linfield FC",
+        "amount": "Free"
+    },
+    {
+        "player_id": "7545",
+        "player_name": "Kalidou Koulibaly",
+        "country_name": "Senegal",
+        "age": "32",
+        "position_name": "Defender (Center)",
+        "club_from_name": "Chelsea",
+        "club_to_name": "Al-Hilal SFC",
+        "amount": "€23M"
+    },
+    {
+        "player_id": "93121",
+        "player_name": "Harry Winks",
+        "country_name": "England",
+        "age": "27",
+        "position_name": "Defensive Midfielder, Midfielder (Center)",
+        "club_from_name": "Tottenham",
+        "club_to_name": "Leicester City",
+        "amount": "€11.6M"
+    },
+    {
+        "player_id": "548098",
+        "player_name": "Diego Manuel Jadon da Silva Moreira",
+        "country_name": "Portugal",
+        "age": "18",
+        "position_name": "Attacking midfielder (Right Left), Defender (Left)",
+        "club_from_name": "SL Benfica",
+        "club_to_name": "Chelsea",
+        "amount": "Free"
+    },
+    {
+        "player_id": "112793",
+        "player_name": "Christopher Nkunku",
+        "country_name": "France",
+        "age": "25",
+        "position_name": "Striker (Center), Midfielder (Center Left)",
+        "club_from_name": "RB Leipzig",
+        "club_to_name": "Chelsea",
+        "amount": "€60M"
+    },
+    {
+        "player_id": "658833",
+        "player_name": "Daniel Quick",
+        "country_name": "England",
+        "age": "20",
+        "position_name": "Defender (Center Right)",
+        "club_from_name": "Crystal Palace",
+        "club_to_name": "Eastbourne Borough Football Club",
+        "amount": "Free"
+    }
+]

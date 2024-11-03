@@ -1,0 +1,166 @@
+Attribute,Top Team
+PlayingTime.MatchesPlayed,Manchester Utd
+PlayingTime.Starts,Manchester Utd
+PlayingTime.Minutes,Manchester Utd
+Performance.NonPenaltyGoals,Manchester City
+Performance.PenaltyGoals,Manchester City
+Performance.Assists,Aston Villa
+Performance.YellowCards,Fulham
+Performance.RedCards,Sheffield Utd
+Expected.xG,Manchester City
+Expected.npxG,Manchester City
+Expected.xAG,Manchester Utd
+Progression.PrgC,Manchester City
+Progression.PrgP,Manchester City
+Progression.PrgR,Arsenal
+Per90.Gls,Wolves
+Per90.Ast,Tottenham
+Per90.G+A,Fulham
+Per90.G-PK,Wolves
+Per90.G+A-PK,Fulham
+Per90.xG,Bournemouth
+Per90.xAG,Manchester City
+Per90.xG+xAG,Bournemouth
+Per90.npxG,Bournemouth
+Per90.npxG+xAG,Bournemouth
+Goalkeeping.Performance.GA,Luton Town
+Goalkeeping.Performance.GA90,Bournemouth
+Goalkeeping.Performance.SoTA,Luton Town
+Goalkeeping.Performance.Saves,Manchester Utd
+Goalkeeping.Performance.Save%,Burnley
+Goalkeeping.Performance.W,Manchester City
+Goalkeeping.Performance.D,West Ham
+Goalkeeping.Performance.L,Luton Town
+Goalkeeping.Performance.CS,Arsenal
+Goalkeeping.Performance.CS%,Manchester City
+Goalkeeping.PenaltyKicks.PKatt,Fulham
+Goalkeeping.PenaltyKicks.PKA,Fulham
+Goalkeeping.PenaltyKicks.PKsv,West Ham
+Goalkeeping.PenaltyKicks.PKm,Sheffield Utd
+Goalkeeping.PenaltyKicks.Save%,Aston Villa
+Shooting.Standard.Gls,Manchester City
+Shooting.Standard.Sh,Manchester City
+Shooting.Standard.SoT,Manchester City
+Shooting.Standard.SoT%,Luton Town
+Shooting.Standard.Sh/90,Bournemouth
+Shooting.Standard.SoT/90,Everton
+Shooting.Standard.G/Sh,Manchester Utd
+Shooting.Standard.G/SoT,Chelsea
+Shooting.Standard.Dist,Sheffield Utd
+Shooting.Standard.FK,West Ham
+Shooting.Standard.PK,Chelsea
+Shooting.Standard.PKatt,Chelsea
+Shooting.Expected.xG,Manchester City
+Shooting.Expected.npxG,Manchester City
+Shooting.Expected.npxG/Sh,Fulham
+Passing.Total.Cmp,Manchester City
+Passing.Total.Att,Manchester City
+Passing.Total.Cmp%,Chelsea
+Passing.Total.TotDist,Manchester City
+Passing.Total.PrgDist,Everton
+Passing.Short.Cmp,Manchester City
+Passing.Short.Att,Manchester City
+Passing.Short.Cmp%,Arsenal
+Passing.Medium.Cmp,Liverpool
+Passing.Medium.Att,Brighton
+Passing.Medium.Cmp%,Wolves
+Passing.Long.Cmp,Everton
+Passing.Long.Att,Everton
+Passing.Long.Cmp%,Nott'ham Forest
+Passing.Expected.Ast,Aston Villa
+Passing.Expected.xAG,Manchester Utd
+Passing.Expected.xA,Arsenal
+Passing.Expected.A-xAG,Aston Villa
+Passing.Expected.KP,Manchester Utd
+Passing.Expected.1/3,Manchester City
+Passing.Expected.PPA,Arsenal
+Passing.Expected.CrsPA,Brighton
+Passing.Expected.PrgP,Manchester City
+PassTypes.Live,Manchester City
+PassTypes.Dead,Everton
+PassTypes.FK,Everton
+PassTypes.TB,Arsenal
+PassTypes.Sw,Newcastle Utd
+PassTypes.Crs,Luton Town
+PassTypes.TI,Crystal Palace
+PassTypes.CK,Luton Town
+PassTypes.CornerKicks.In,Arsenal
+PassTypes.CornerKicks.Out,Luton Town
+PassTypes.CornerKicks.Str,Wolves
+PassTypes.Outcomes.Cmp,Manchester City
+PassTypes.Outcomes.Off,Manchester Utd
+PassTypes.Outcomes.Blocks,Crystal Palace
+GoalAndShotCreation.SCA,Arsenal
+GoalAndShotCreation.SCA90,Tottenham
+GoalAndShotCreation.SCAType.PassLive,Arsenal
+GoalAndShotCreation.SCAType.PassDead,Brighton
+GoalAndShotCreation.SCAType.TO,West Ham
+GoalAndShotCreation.SCAType.Sh,Liverpool
+GoalAndShotCreation.SCAType.Fld,Newcastle Utd
+GoalAndShotCreation.SCAType.Def,Newcastle Utd
+GoalAndShotCreation.GCA,Newcastle Utd
+GoalAndShotCreation.GCA90,Manchester City
+GoalAndShotCreation.GCAType.PassLive,Chelsea
+GoalAndShotCreation.GCAType.PassDead,West Ham
+GoalAndShotCreation.GCAType.TO,Newcastle Utd
+GoalAndShotCreation.GCAType.Sh,Aston Villa
+GoalAndShotCreation.GCAType.Fld,Newcastle Utd
+GoalAndShotCreation.GCAType.Def,Manchester Utd
+DefensiveActions.Tackles.Tkl,Fulham
+DefensiveActions.Tackles.TklW,Sheffield Utd
+DefensiveActions.Tackles.Def3rd,Fulham
+DefensiveActions.Tackles.Mid3rd,Fulham
+DefensiveActions.Tackles.Att3rd,Tottenham
+DefensiveActions.Challenges.Tkl,Fulham
+DefensiveActions.Challenges.Att,Fulham
+DefensiveActions.Challenges.Tkl%,Brentford
+DefensiveActions.Challenges.Lost,Brentford
+DefensiveActions.Blocks.Blocks,Everton
+DefensiveActions.Blocks.Sh,Everton
+DefensiveActions.Blocks.Pass,Liverpool
+DefensiveActions.Blocks.Int,Fulham
+DefensiveActions.Blocks.Tkl+Int,Fulham
+DefensiveActions.Blocks.Clr,Crystal Palace
+DefensiveActions.Blocks.Err,Sheffield Utd
+Possession.Touches.Touches,Manchester City
+Possession.Touches.DefPen,Fulham
+Possession.Touches.Def3rd,Brighton
+Possession.Touches.Mid3rd,Manchester City
+Possession.Touches.Att3rd,Arsenal
+Possession.Touches.AttPen,Arsenal
+Possession.Touches.Live,Manchester City
+Possession.TakeOns.Att,West Ham
+Possession.TakeOns.Succ,West Ham
+Possession.TakeOns.Succ%,Chelsea
+Possession.TakeOns.Tkld,West Ham
+Possession.TakeOns.Tkld%,West Ham
+Possession.Carries.Carries,Manchester City
+Possession.Carries.TotDist,Manchester City
+Possession.Carries.ProDist,Manchester City
+Possession.Carries.ProgC,Manchester City
+Possession.Carries.1/3,Manchester City
+Possession.Carries.CPA,Manchester City
+Possession.Carries.Mis,Bournemouth
+Possession.Carries.Dis,West Ham
+Possession.Receiving.Rec,Manchester City
+Possession.Receiving.PrgR,Arsenal
+PlayingTime.Mn/Start,Arsenal
+PlayingTime.Compl,Manchester Utd
+PlayingTime.Subs,Tottenham
+PlayingTime.Mn/Sub,Newcastle Utd
+PlayingTime.unSub,Wolves
+PlayingTime.TeamSuccess.PPM,Arsenal
+PlayingTime.TeamSuccess.onG,Arsenal
+PlayingTime.TeamSuccess.onGA,Sheffield Utd
+PlayingTime.TeamSuccessxG.onxG,Liverpool
+PlayingTime.TeamSuccessxG.onxGA,Luton Town
+MiscellaneousStats.Performance.Fls,Chelsea
+MiscellaneousStats.Performance.Fld,Newcastle Utd
+MiscellaneousStats.Performance.Off,Liverpool
+MiscellaneousStats.Performance.Crs,Luton Town
+MiscellaneousStats.Performance.OG,Fulham
+MiscellaneousStats.Performance.Recov,Newcastle Utd
+MiscellaneousStats.AerialDuels.Won,Everton
+MiscellaneousStats.AerialDuels.Lost,Luton Town
+MiscellaneousStats.AerialDuels.Won%,Burnley
+Best Performance,Manchester City
